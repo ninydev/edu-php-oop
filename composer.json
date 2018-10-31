@@ -1,0 +1,16 @@
+{
+    "name": "ninydev/edu-php-oop",
+    "type": "education",
+    "autoload": {
+        "psr-4": {
+            "Invent\\": "Group_II/01.01.Class/Invent/"
+            }
+    },
+    "authors": [
+        {
+            "name": "Oleksander Nykytin",
+            "email": "nikitin_a@itstep.org"
+        }
+    ],
+    "require": {}
+}
