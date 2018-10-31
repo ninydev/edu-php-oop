@@ -1,0 +1,13 @@
+Поведенческие паттерны: классификация
+Они делятся на:
+
+Chain of Responsibility
+Command
+Iterator
+Mediator
+Memento
+Observer
+Visitor
+Strategy
+State
+Template Method

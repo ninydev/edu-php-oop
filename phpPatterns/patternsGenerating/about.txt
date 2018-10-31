@@ -1,0 +1,9 @@
+Порождающие паттерны: классификация
+Они делятся на:
+
+Simple Factory
+Factory Method
+Abstract Factory
+Builder
+Prototype
+Singleton

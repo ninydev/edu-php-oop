@@ -1,0 +1,10 @@
+Структурные паттерны: классификация
+Они делятся на:
+
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
