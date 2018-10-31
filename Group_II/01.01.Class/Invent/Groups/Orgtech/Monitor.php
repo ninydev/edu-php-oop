@@ -1,6 +1,6 @@
 <?php
 namespace Invent\Groups\Orgtech;
-use Invent\Groups;
+use Invent\Groups\Orgtech;
 
 
 class Monitor extends Orgtech {

@@ -1,9 +1,6 @@
 <?php
 namespace Invent\Groups;
-use Invent;
+use Invent\BaseCabinet;
 
 class Mebel extends BaseCabinet {
-  function __construct (){
-
-  }
 }

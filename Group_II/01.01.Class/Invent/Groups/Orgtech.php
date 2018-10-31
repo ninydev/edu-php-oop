@@ -1,6 +1,6 @@
 <?php
 namespace Invent\Groups;
-use Invent;
+use Invent\BaseCabinet;
 
 class Orgtech extends BaseCabinet {
   function __construct (){
